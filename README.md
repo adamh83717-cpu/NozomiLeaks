@@ -19,3 +19,6 @@ Thank you,
 Nozomi is an independent game-preservation community. Nozomi is not affiliated with or endorsed by the original platform.
 
 to view files as games,download add .html at the end of them.
+
+
+Clients: https://www.mediafire.com/folder/q05spt0y495q7/Nozomi_Clients - all of them is in that link
