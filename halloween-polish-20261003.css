@@ -1,0 +1,123 @@
+.nozomi-render {
+  opacity: 0;
+  transition: opacity 280ms ease-out;
+}
+/* Only identified panels on these pages; layout wrappers remain untouched. */
+body[data-nozomi-theme='dark'][data-nozomi-section='events'] :is(
+  [class*='hero-'], [class*='panel-'], [class*='prize-'], [class*='timerBox-'],
+  [class*='entry-'], [class*='like-']:not([class*='liked-'])
+),
+body[data-nozomi-theme='dark'][data-nozomi-section='groups'] :is(
+  [class*='header-'], [class*='sectionCard-'], [class*='section-'],
+  [class*='card-'], [class*='wall-'], [class*='wallContainer-']
+),
+body[data-nozomi-theme='dark'][data-nozomi-section='avatar'] :is(
+  [class*='previewAndScaling-'], [class*='outfitCard-'],
+  [class*='tab-'], [class*='submenu-'], [class*='rig-'], [class*='viewButton-']
+) {
+  background-color: var(--nozomi-surface, #24272e) !important;
+  color: var(--halloween-text, #e8eaed) !important;
+  border-color: var(--halloween-border, #424752) !important;
+}
+body[data-nozomi-theme='dark'][data-nozomi-section='groups'] [class*='groupsContainer-'] {
+  background: transparent !important;
+}
+body[data-nozomi-theme='dark'] [class*='groupsContainer-'] {
+  background: transparent !important;
+  box-shadow: none !important;
+}
+body[data-nozomi-theme='dark'] [class*='characterContainer-'] {
+  background: transparent !important;
+}
+body[data-nozomi-theme='dark'] [class*='friendsContainer-'] {
+  background: transparent !important;
+}
+body[data-nozomi-theme='dark'] :is([class*='manageRequestCard-'], [class*='ignoreButton-']) {
+  background-color: var(--nozomi-surface, #24272e) !important;
+  color: var(--halloween-text, #e8eaed) !important;
+  border-color: var(--halloween-border, #424752) !important;
+}
+body[data-nozomi-theme='dark'] [class*='friendsContainer-'] [class*='imageWrapper-'] {
+  border-color: var(--halloween-border, #424752) !important;
+}
+body[data-nozomi-theme='dark'][data-nozomi-section='events'] :is(
+  [class*='heroText-'], [class*='timerLabel-'], [class*='timerDate-'],
+  [class*='prizeExtra-'], [class*='rules-'], [class*='entriesHint-'],
+  [class*='entryMeta-'], [class*='empty-'], [class*='note-']
+) { color: var(--nozomi-muted, #b9bec8) !important; }
+body[data-nozomi-theme='dark'][data-nozomi-section='events'] :is(
+  [class*='timer-'], [class*='prizeAmount-'], [class*='entryTitle-']
+) { color: var(--halloween-text, #e8eaed) !important; }
+body[data-nozomi-theme='dark'][data-nozomi-section='avatar'] [class*='stage-'] {
+  background: radial-gradient(circle at 35% 20%, #504060, #30263d 55%, #201b29) !important;
+}
+body[data-nozomi-theme='dark'][data-nozomi-section='avatar'] [class*='subButton-']:hover {
+  background-color: var(--nozomi-raised, #30343d) !important;
+}
+.nozomi-group-game-cards > div {
+  max-width: 160px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.nozomi-render.nozomi-render-ready { opacity: 1; }
+@media (prefers-reduced-motion: reduce) {
+  .nozomi-render { transition: none; }
+}
+body[data-nozomi-season='halloween'] [class*='navbar-'] {
+  background: linear-gradient(110deg, #9b350e 0%, #bc511a 48%, #643278 100%) !important;
+}
+body[data-nozomi-season='halloween'][data-nozomi-theme='dark'] [class*='navbar-'] {
+  background: linear-gradient(110deg, #38154e 0%, #642884 55%, #874018 100%) !important;
+}
+body[data-nozomi-season='halloween'] {
+  --halloween-panel-gradient: linear-gradient(145deg, #fff4e4, #f8e7dd 65%, #f0e2f4);
+}
+body[data-nozomi-season='halloween'][data-nozomi-theme='dark'] {
+  --halloween-panel-gradient: linear-gradient(145deg, #352044, #2d1b3d 65%, #392332);
+}
+body[data-nozomi-season='halloween'] .card,
+body[data-nozomi-season='halloween'] [class*='card-'],
+body[data-nozomi-season='halloween'] [class*='whiteSection-'] {
+  background-image: var(--halloween-panel-gradient) !important;
+}
+body #__next > div > [class^='main-'] {
+  animation: nozomi-page-enter 280ms ease-out both;
+}
+body.nozomi-page-enter #__next > div > [class^='main-'] {
+  animation-name: nozomi-page-return;
+}
+body.nozomi-page-leave #__next > div > [class^='main-'] {
+  animation: nozomi-page-leave 120ms ease-in forwards;
+}
+@keyframes nozomi-page-leave {
+  from { opacity: 1; }
+  to { opacity: .45; }
+}
+@keyframes nozomi-page-enter {
+  from { opacity: .45; }
+  to { opacity: 1; }
+}
+@keyframes nozomi-page-return {
+  from { opacity: .45; }
+  to { opacity: 1; }
+}
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  body[data-nozomi-season='halloween'] [class*='card-'] {
+    transition: transform 160ms ease-out, box-shadow 160ms ease-out;
+  }
+  body[data-nozomi-season='halloween'] [class*='card-']:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 14px rgba(44, 15, 59, .16);
+  }
+  body[data-nozomi-season='halloween'] button,
+  body[data-nozomi-season='halloween'] a.nav-link {
+    transition: background-color 140ms ease-out, color 140ms ease-out, opacity 140ms ease-out;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  body #__next > div > [class^='main-'],
+  body.nozomi-page-leave #__next > div > [class^='main-'],
+  body.nozomi-page-enter #__next > div > [class^='main-'] {
+    animation: none;
+  }
+}
