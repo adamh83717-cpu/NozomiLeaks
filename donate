@@ -1,15 +1,15 @@
-<!DOCTYPE html><html><head><meta charSet="utf-8" data-next-head=""/><meta name="viewport" content="width=device-width, initial-scale=1" data-next-head=""/><link rel="preconnect" href="https://fonts.googleapis.com" data-next-head=""/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" data-next-head=""/><title data-next-head="">Donate - Nozomi</title><link rel="icon" type="image/png" href="/nozomi-icon.png?v=20260913" data-next-head=""/><link rel="preload" href="/_next/static/chunks/1r07hkf3xzy5l.css" as="style"/><link rel="preload" href="/_next/static/chunks/0fxi_h-xzasxo.css" as="style"/><link rel="preload" href="/_next/static/chunks/02st1rjdscwlr.css" as="style"/><link rel="stylesheet" href="/_next/static/chunks/1r07hkf3xzy5l.css" data-n-g=""/><link rel="stylesheet" href="/_next/static/chunks/0fxi_h-xzasxo.css" data-n-g=""/><link rel="stylesheet" href="/_next/static/chunks/02st1rjdscwlr.css" data-n-g=""/><noscript data-n-css=""></noscript><script src="/_next/static/chunks/0uw9cbq0ivaz0.js" defer=""></script><script src="/_next/static/chunks/2ypdhtrh2ao8e.js" defer=""></script><script src="/_next/static/chunks/0nmpb91v5nunp.js" defer=""></script><script src="/_next/static/chunks/2d40pblph5422.js" defer=""></script><script src="/_next/static/chunks/2_s-4hc8jel0f.js" defer=""></script><script src="/_next/static/chunks/43gn2o0z-at9n.js" defer=""></script><script src="/_next/static/chunks/3hgt3j4lsb2fb.js" defer=""></script><script src="/_next/static/chunks/2kb1sjogc8y4w.js" defer=""></script><script src="/_next/static/chunks/2n9lkletx3rdm.js" defer=""></script><script src="/_next/static/chunks/turbopack-1zkktgr-xfvcf.js" defer=""></script><script src="/_next/static/chunks/1chzlct575hl0.js" defer=""></script><script src="/_next/static/chunks/1y8e40a9kn4gw.js" defer=""></script><script src="/_next/static/chunks/turbopack-016e9_02j799b.js" defer=""></script><script src="/_next/static/7BtcrKS9LFFbpsOdpw-mp/_buildManifest.js" defer=""></script><script src="/_next/static/7BtcrKS9LFFbpsOdpw-mp/_ssgManifest.js" defer=""></script><script src="/_next/static/7BtcrKS9LFFbpsOdpw-mp/_clientMiddlewareManifest.js" defer=""></script><link rel="stylesheet" href="/styles/halloween-polish-20261003.css"/><script defer="" src="/halloween/page-motion.js?v=20261003"></script><style id="server-side-styles">.wordmark-0-2-10 {
+<!DOCTYPE html><html><head><meta charSet="utf-8" data-next-head=""/><meta name="viewport" content="width=device-width, initial-scale=1" data-next-head=""/><link rel="preconnect" href="https://fonts.googleapis.com" data-next-head=""/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" data-next-head=""/><title data-next-head="">Donate - Nozomi</title><link rel="icon" type="image/png" href="/nozomi-icon.png?v=20260913" data-next-head=""/><link rel="preload" href="/_next/static/css/8f938d07b13f2f12.css" as="style"/><link rel="stylesheet" href="/_next/static/css/8f938d07b13f2f12.css" data-n-g=""/><noscript data-n-css=""></noscript><script defer="" noModule="" src="/_next/static/chunks/polyfills-42372ed130431b0a.js"></script><script src="/_next/static/chunks/webpack-d2d6d9620811d660.js" defer=""></script><script src="/_next/static/chunks/framework-4d73ac4b4caac852.js" defer=""></script><script src="/_next/static/chunks/main-fbbda44506605da4.js" defer=""></script><script src="/_next/static/chunks/pages/_app-26ade28c7d0a5fa2.js" defer=""></script><script src="/_next/static/chunks/pages/donate-ce3696c5148a537b.js" defer=""></script><script src="/_next/static/J8Cz-gWMuQYk1WUisE9mJ/_buildManifest.js" defer=""></script><script src="/_next/static/J8Cz-gWMuQYk1WUisE9mJ/_ssgManifest.js" defer=""></script><style id="server-side-styles">.wordmark-0-2-9 {
   height: 36px;
   display: inline-flex;
   align-items: center;
 }
-.wordmarkImage-0-2-11 {
+.wordmarkImage-0-2-10 {
   width: 122px;
   height: 36px;
   display: block;
   object-fit: contain;
 }
-.col-0-2-12 {
+.col-0-2-11 {
   flex: 0 0 auto;
   width: auto;
   display: flex;
@@ -17,11 +17,11 @@
   align-items: center;
   padding-right: 10px;
 }
-.openSideNavMobile-0-2-13 {
+.openSideNavMobile-0-2-12 {
   display: none;
 }
 @media(max-width: 1300px) {
-  .openSideNavMobile-0-2-13 {
+  .openSideNavMobile-0-2-12 {
     float: left;
     width: 30px;
     cursor: pointer;
@@ -30,7 +30,7 @@
     margin-right: 8px;
   }
 }
-  .container-0-2-14 {
+  .container-0-2-13 {
     display: flex;
     margin-top: 0;
     align-items: center;
@@ -39,11 +39,11 @@
     padding-bottom: 0;
   }
 @media(max-width: 767px) {
-  .container-0-2-14 {
+  .container-0-2-13 {
     width: 100%;
   }
 }
-  .linkEntry-0-2-15 {
+  .linkEntry-0-2-14 {
     color: white;
     padding: 2px 6px;
     font-size: 16px;
@@ -56,7 +56,7 @@
     padding-bottom: 0;
     text-decoration: none;
   }
-  .linkEntry-0-2-15:hover {
+  .linkEntry-0-2-14:hover {
     color: white;
     cursor: pointer;
     background: rgba(25,25,25,0.1);
@@ -64,95 +64,95 @@
     border-radius: 4px;
   }
 @media(max-width: 767px) {
-  .linkEntry-0-2-15 {
-    font-size: 12px;
-    padding-left: 1px;
-    padding-right: 1px;
+  .linkEntry-0-2-14 {
+    font-size: 13px;
+    padding-left: 2px;
+    padding-right: 2px;
   }
 }
-  .navItem-0-2-16 {
+  .navItem-0-2-15 {
     display: inline-block;
     flex-shrink: 0;
     padding-right: 1.1rem;
   }
-  .navItem-0-2-16:last-child {
+  .navItem-0-2-15:last-child {
     padding-right: 0;
   }
 @media(max-width: 1280px) {
-  .navItem-0-2-16 {
+  .navItem-0-2-15 {
     padding-right: 0.75rem;
   }
 }
 @media(max-width: 1120px) {
-  .navItem-0-2-16 {
+  .navItem-0-2-15 {
     padding-right: 0.5rem;
   }
 }
 @media(max-width: 991px) {
-  .navItem-0-2-16 {
+  .navItem-0-2-15 {
     padding-right: 0.25rem;
   }
 }
 @media(max-width: 767px) {
-  .navItem-0-2-16 {
-    flex: 1 1 16%;
+  .navItem-0-2-15 {
+    flex: 1 1 20%;
     min-width: 0;
     padding-right: 0;
   }
 }
-  .col-0-2-17 {
+  .col-0-2-16 {
     flex: 0 0 auto;
     margin-left: 0;
     padding-left: 0;
   }
 @media(max-width: 767px) {
-  .col-0-2-17 {
+  .col-0-2-16 {
     width: 100%;
     max-width: 100%;
     flex-basis: 100%;
   }
 }
-  .linksRow-0-2-18 {
+  .linksRow-0-2-17 {
     margin: 0;
     display: flex;
     flex-wrap: nowrap;
     align-items: center;
   }
 @media(max-width: 991px) {
-  .linksRow-0-2-18 {
+  .linksRow-0-2-17 {
     gap: 2px;
   }
 }
 @media(max-width: 767px) {
-  .linksRow-0-2-18 {
+  .linksRow-0-2-17 {
     gap: 0;
     width: 100%;
     min-width: 100%;
     justify-content: space-around;
   }
 }
-  .icon-0-2-22 {
+  .icon-0-2-21 {
     float: right;
     margin-top: -24px;
     padding-top: 0;
   }
-  .col-0-2-19 {
+  .col-0-2-18 {
     width: 100%;
     margin: 0;
     position: relative;
     max-width: 280px;
     min-width: 0;
   }
-  .wrapper-0-2-20 {
+  .wrapper-0-2-19 {
     width: 100%;
     border: 1px solid #c3c3c3;
     padding: 3px 2px;
     position: relative;
-    background: var(--nozomi-surface, white);
+    background: white;
     box-sizing: border-box;
     border-radius: 2px;
   }
-  .searchInput-0-2-21 {
+  .searchInput-0-2-20 {
     width: 100%;
     border: none;
     height: 24px;
@@ -161,38 +161,38 @@
     padding-right: 28px;
     padding-bottom: 0;
   }
-  .searchInput-0-2-21:focus {
+  .searchInput-0-2-20:focus {
     border: none!important;
     box-shadow: none!important;
   }
-  .text-0-2-66 {
+  .text-0-2-65 {
     color: #B8B8B8;
     font-size: 12px;
     font-weight: 400;
   }
-  .link-0-2-67 {
+  .link-0-2-66 {
     font-size: 21px;
     text-align: center;
     font-weight: 300;
     text-decoration: none;
   }
-  .link-0-2-67:hover {
-    color: var(--nozomi-text, #191919);
+  .link-0-2-66:hover {
+    color: #191919;
   }
-  .footer-0-2-68 {
-    background: var(--nozomi-surface, #ffffff);
+  .footer-0-2-67 {
+    background: #ffffff;
   }
-  .footerContainer-0-2-69 {
+  .footerContainer-0-2-68 {
     padding-top: 5px;
     padding-bottom: 20px;
   }
 @media(max-width: 575px) {
-  .linkColumn-0-2-70 {
+  .linkColumn-0-2-69 {
     flex: 0 0 50%;
     max-width: 50%;
   }
 }
-  .main-0-2-26 {
+  .main-0-2-25 {
     min-height: 95vh;
   }
   .navbar-0-2-1 {
@@ -259,20 +259,6 @@
     margin-bottom: 116px;
   }
 }
-  .maintenanceBanner-0-2-9 {
-    top: 0;
-    left: 0;
-    color: #fff;
-    right: 0;
-    padding: 3px 12px;
-    z-index: 1100;
-    position: fixed;
-    font-size: 13px;
-    background: #b45309;
-    text-align: center;
-    font-weight: 700;
-    pointer-events: none;
-  }
 @media(max-width: 767px) {
   .navContainer-0-2-2 {
     padding-left: 8px!important;
@@ -312,7 +298,7 @@
     max-width: none;
   }
 }
-  .alertBg-0-2-23 {
+  .alertBg-0-2-22 {
     display: flex;
     background: #f5b400;
     box-shadow: inset 0 1px rgba(255,255,255,.12);
@@ -321,7 +307,7 @@
     border-bottom: 1px solid #d89e00;
     justify-content: center;
   }
-  .alertText-0-2-24 {
+  .alertText-0-2-23 {
     color: #fff;
     width: 100%;
     margin: 0;
@@ -332,29 +318,29 @@
     line-height: 1.35;
   }
 @media(max-width: 767px) {
-  .alertText-0-2-24 {
+  .alertText-0-2-23 {
     padding: 10px 12px 8px;
     font-size: 15px;
   }
 }
-  .alertLink-0-2-25 {
+  .alertLink-0-2-24 {
     color: #fff;
     border-bottom: 1px solid rgba(255,255,255,.55);
     text-decoration: none;
   }
-  .alertLink-0-2-25:hover {
+  .alertLink-0-2-24:hover {
     color: #fff;
     text-decoration: none;
     border-bottom-color: #fff;
   }
-  .image-0-2-65 {
+  .image-0-2-64 {
     width: 100%;
     height: auto;
     margin: 0 auto;
     max-width: 400px;
     padding-top: 20px;
   }
-  .page-0-2-27 {
+  .page-0-2-26 {
     color: #191919;
     margin: 0 auto;
     padding: 28px 15px 60px;
@@ -362,27 +348,27 @@
     font-family: "HCo Gotham SSm","Gotham SSm",Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
   }
-  .panel-0-2-28 {
+  .panel-0-2-27 {
     border: 1px solid #ccc;
     background: #fff;
     box-shadow: 0 1px 2px rgba(0,0,0,.12);
   }
-  .header-0-2-29 {
+  .header-0-2-28 {
     padding: 25px 30px 21px;
     border-bottom: 1px solid #ddd;
   }
-  .title-0-2-30 {
+  .title-0-2-29 {
     margin: 0 0 6px;
     font-size: 32px;
     font-weight: 800;
   }
-  .lead-0-2-31 {
+  .lead-0-2-30 {
     color: #555;
     margin: 0;
     font-size: 16px;
     font-weight: 700;
   }
-  .countdown-0-2-32 {
+  .countdown-0-2-31 {
     gap: 20px;
     display: flex;
     padding: 15px 30px;
@@ -391,18 +377,18 @@
     border-bottom: 1px solid #c6a51f;
     justify-content: space-between;
   }
-  .countdownTitle-0-2-33 {
+  .countdownTitle-0-2-32 {
     margin: 0;
     font-size: 16px;
     font-weight: 800;
   }
-  .clock-0-2-34 {
+  .clock-0-2-33 {
     gap: 7px;
     display: flex;
     align-items: center;
     font-variant-numeric: tabular-nums;
   }
-  .timeBlock-0-2-35 {
+  .timeBlock-0-2-34 {
     border: 1px solid rgba(0,0,0,.25);
     padding: 7px 8px;
     min-width: 52px;
@@ -410,13 +396,13 @@
     text-align: center;
     border-radius: 3px;
   }
-  .timeValue-0-2-36 {
+  .timeValue-0-2-35 {
     display: block;
     font-size: 20px;
     font-weight: 800;
     line-height: 1;
   }
-  .timeLabel-0-2-37 {
+  .timeLabel-0-2-36 {
     color: #555;
     display: block;
     font-size: 9px;
@@ -424,12 +410,12 @@
     font-weight: 800;
     text-transform: uppercase;
   }
-  .expired-0-2-38 {
+  .expired-0-2-37 {
     color: #fff;
     background: #d9534f;
     border-bottom-color: #b52b27;
   }
-  .disabledNotice-0-2-39 {
+  .disabledNotice-0-2-38 {
     color: #fff;
     padding: 13px 30px;
     font-size: 15px;
@@ -438,31 +424,31 @@
     font-weight: 800;
     border-bottom: 1px solid #b52b27;
   }
-  .content-0-2-40 {
+  .content-0-2-39 {
     padding: 25px 30px 30px;
   }
-  .heading-0-2-41 {
+  .heading-0-2-40 {
     margin: 0 0 16px;
     font-size: 22px;
     font-weight: 800;
   }
-  .tiers-0-2-42 {
+  .tiers-0-2-41 {
     gap: 16px;
     display: grid;
     grid-template-columns: repeat(3,minmax(0,1fr));
   }
-  .tier-0-2-43 {
+  .tier-0-2-42 {
     border: 1px solid #c8c8c8;
     display: flex;
     min-width: 0;
     background: #fafafa;
     flex-direction: column;
   }
-  .tierSelected-0-2-44 {
+  .tierSelected-0-2-43 {
     box-shadow: 0 0 0 2px rgba(123,72,181,.18);
     border-color: #7b48b5;
   }
-  .imageWrap-0-2-45 {
+  .imageWrap-0-2-44 {
     height: 210px;
     display: flex;
     padding: 10px;
@@ -472,7 +458,7 @@
     border-bottom: 1px solid #ddd;
     justify-content: center;
   }
-  .image-0-2-46 {
+  .image-0-2-45 {
     width: 100%!important;
     height: 100%!important;
     margin: 0!important;
@@ -480,32 +466,32 @@
     object-fit: contain;
     padding-top: 0!important;
   }
-  .tierBody-0-2-47 {
+  .tierBody-0-2-46 {
     flex: 1;
     display: flex;
     padding: 16px;
     flex-direction: column;
   }
-  .tierName-0-2-48 {
+  .tierName-0-2-47 {
     margin: 0 0 7px;
     font-size: 19px;
     font-weight: 800;
   }
-  .itemName-0-2-49 {
+  .itemName-0-2-48 {
     color: #555;
     margin: 0 0 9px;
     font-size: 14px;
     min-height: 38px;
     font-weight: 700;
   }
-  .reward-0-2-50 {
+  .reward-0-2-49 {
     display: flex;
     font-size: 17px;
     align-items: center;
     font-weight: 800;
     margin-bottom: 14px;
   }
-  .robux-0-2-51 {
+  .robux-0-2-50 {
     width: 20px;
     height: 20px;
     display: inline-block;
@@ -515,7 +501,7 @@
     background-repeat: no-repeat;
     background-position: 0 -80px;
   }
-  .select-0-2-52 {
+  .select-0-2-51 {
     color: #fff;
     width: 100%;
     border: 0;
@@ -528,30 +514,30 @@
     font-weight: 800;
     border-radius: 3px;
   }
-  .select-0-2-52:hover {
+  .select-0-2-51:hover {
     background: #69379f;
   }
-  .selectDisabled-0-2-53 {
+  .selectDisabled-0-2-52 {
     cursor: not-allowed;
     background: #999!important;
   }
-  .instructions-0-2-54 {
+  .instructions-0-2-53 {
     border-top: 1px solid #ddd;
     margin-top: 24px;
     padding-top: 22px;
   }
-  .instructionBox-0-2-55 {
+  .instructionBox-0-2-54 {
     border: 1px solid #ccc;
     padding: 19px 21px;
     background: #f2f2f2;
   }
-  .steps-0-2-56 {
+  .steps-0-2-55 {
     margin: 8px 0 0;
     font-size: 15px;
     line-height: 1.65;
     padding-left: 22px;
   }
-  .kofi-0-2-57 {
+  .kofi-0-2-56 {
     color: #fff!important;
     display: inline-block;
     padding: 10px 24px;
@@ -562,27 +548,27 @@
     border-radius: 3px;
     text-decoration: none!important;
   }
-  .kofi-0-2-57:hover {
+  .kofi-0-2-56:hover {
     background: #168cbb;
   }
-  .paymentGrid-0-2-58 {
+  .paymentGrid-0-2-57 {
     gap: 10px;
     display: grid;
     margin-top: 18px;
     grid-template-columns: repeat(4,minmax(0,1fr));
   }
-  .payment-0-2-59 {
+  .payment-0-2-58 {
     border: 1px solid #ccc;
     padding: 12px 10px;
     background: #fff;
     border-radius: 3px;
   }
-  .paymentName-0-2-60 {
+  .paymentName-0-2-59 {
     margin: 0;
     font-size: 14px;
     font-weight: 800;
   }
-  .wallet-0-2-61 {
+  .wallet-0-2-60 {
     color: #555;
     display: block;
     font-size: 10px;
@@ -590,47 +576,47 @@
     word-break: break-all;
     font-weight: 700;
   }
-  .rules-0-2-62 {
+  .rules-0-2-61 {
     margin: 24px 0 0;
     border-top: 1px solid #ddd;
     padding-top: 20px;
   }
-  .ruleText-0-2-63 {
+  .ruleText-0-2-62 {
     color: #444;
     margin: 7px 0;
     font-size: 14px;
     font-weight: 700;
     line-height: 1.55;
   }
-  .permanentBan-0-2-64 {
+  .permanentBan-0-2-63 {
     color: #d71920;
     font-weight: 800;
   }
 @media(max-width:760px) {
-  .tiers-0-2-42 {
+  .tiers-0-2-41 {
     grid-template-columns: 1fr;
   }
-  .imageWrap-0-2-45 {
+  .imageWrap-0-2-44 {
     height: 240px;
   }
-  .content-0-2-40 {
+  .content-0-2-39 {
     padding: 20px 16px;
   }
-  .header-0-2-29 {
+  .header-0-2-28 {
     padding: 21px 16px;
   }
-  .countdown-0-2-32 {
+  .countdown-0-2-31 {
     padding: 14px 16px;
     align-items: flex-start;
     flex-direction: column;
   }
-  .clock-0-2-34 {
+  .clock-0-2-33 {
     gap: 4px;
     width: 100%;
     justify-content: space-between;
   }
-  .timeBlock-0-2-35 {
+  .timeBlock-0-2-34 {
     flex: 1;
     min-width: 0;
   }
-}</style></head><body><link rel="preload" as="image" href="/img/nozomi-wordmark.png?v=20260913"/><link rel="preload" as="image" href="/img/placeholder.png"/><div id="__next"><div><div class="wrapper-0-2-8 navbar-wrapper-main"><nav class="navbar fixed-top navbar-expand-lg navbar-0-2-1"><div class="navContainer-0-2-2 container"><div class="row-0-2-5"><div class="leftContainer-0-2-3"><div class="col-0-2-12"><div class="openSideNavMobile-0-2-13 icon-menu"></div><a class="wordmark-0-2-10" href="/home" aria-label="Nozomi home"><img class="wordmarkImage-0-2-11" src="/img/nozomi-wordmark.png?v=20260913" alt="Nozomi"/></a></div></div><div class="navigation-0-2-4"><div class="col-0-2-17"><div class="container-0-2-14"><div class="linksRow-0-2-18"><div class="navItem-0-2-16"><a class="linkEntry-0-2-15 nav-link active pt-0" href="/games">Games</a></div><div class="navItem-0-2-16"><a class="linkEntry-0-2-15 nav-link active pt-0" href="/catalog">Catalog</a></div><div class="navItem-0-2-16"><a class="linkEntry-0-2-15 nav-link active pt-0" href="/events">Events</a></div><div class="navItem-0-2-16"><a class="linkEntry-0-2-15 nav-link active pt-0" href="/develop">Develop</a></div><div class="navItem-0-2-16"><a class="linkEntry-0-2-15 nav-link active pt-0" href="/download">Download</a></div><div class="navItem-0-2-16"><a class="linkEntry-0-2-15 nav-link active pt-0" href="/donate">Donate</a></div></div></div></div></div><div class="center-0-2-6"><div class="col-0-2-19"><div style="width:100%"><div class="wrapper-0-2-20" data-nozomi-search="true"><input class="form-control searchInput-0-2-21" placeholder="Search" value=""/><span class="icon-0-2-22 icon-nav-search"></span></div></div></div></div><div class="right-0-2-7"></div></div></div></nav></div><div class="main-0-2-26"><main class="page-0-2-27"><section class="panel-0-2-28"><header class="header-0-2-29"><h1 class="title-0-2-30">Support Nozomi</h1><p class="lead-0-2-31">Help keep Nozomi online.</p></header><div class="countdown-0-2-32 "><p class="countdownTitle-0-2-33">October rewards end in:</p><div class="clock-0-2-34"><span class="timeBlock-0-2-35"><span class="timeValue-0-2-36">24</span><span class="timeLabel-0-2-37">Days</span></span><span class="timeBlock-0-2-35"><span class="timeValue-0-2-36">05</span><span class="timeLabel-0-2-37">Hours</span></span><span class="timeBlock-0-2-35"><span class="timeValue-0-2-36">37</span><span class="timeLabel-0-2-37">Minutes</span></span><span class="timeBlock-0-2-35"><span class="timeValue-0-2-36">54</span><span class="timeLabel-0-2-37">Seconds</span></span></div></div><div class="content-0-2-40"><h2 class="heading-0-2-41">Donation Reward Tiers</h2><div class="tiers-0-2-42"><article class="tier-0-2-43 "><div class="imageWrap-0-2-45"><img class="image-0-2-65 image-0-2-46" src="/img/placeholder.png" alt="Ghost Valkyrie"/></div><div class="tierBody-0-2-47"><h3 class="tierName-0-2-48">$<!-- -->5<!-- --> Tier</h3><p class="itemName-0-2-49">Ghost Valkyrie</p><div class="reward-0-2-50"><span class="robux-0-2-51"></span> <!-- -->500<!-- --> Robux</div><button class="select-0-2-52 " type="button">Select</button></div></article><article class="tier-0-2-43 "><div class="imageWrap-0-2-45"><img class="image-0-2-65 image-0-2-46" src="/img/placeholder.png" alt="Ghostly Domino Crown"/></div><div class="tierBody-0-2-47"><h3 class="tierName-0-2-48">$<!-- -->10<!-- --> Tier</h3><p class="itemName-0-2-49">Ghostly Domino Crown</p><div class="reward-0-2-50"><span class="robux-0-2-51"></span> <!-- -->1,200<!-- --> Robux</div><button class="select-0-2-52 " type="button">Select</button></div></article><article class="tier-0-2-43 "><div class="imageWrap-0-2-45"><img class="image-0-2-65 image-0-2-46" src="/img/placeholder.png" alt="Ghostly Horns of the Haunted Hills"/></div><div class="tierBody-0-2-47"><h3 class="tierName-0-2-48">$<!-- -->15<!-- --> Tier</h3><p class="itemName-0-2-49">Ghostly Horns of the Haunted Hills<!-- --> + every lower-tier item</p><div class="reward-0-2-50"><span class="robux-0-2-51"></span> <!-- -->1,900<!-- --> Robux</div><button class="select-0-2-52 " type="button">Select</button></div></article></div><div class="rules-0-2-62"><h2 class="heading-0-2-41">Reward Rules</h2><p class="ruleText-0-2-63">The $5 and $10 tiers each grant only the reward shown. The $15 tier grants all three exclusive items and 1,900 Robux.</p><p class="ruleText-0-2-63">Each reward can be claimed only once per Nozomi account. A tier you already received—and any lower tier already covered by the $15 reward—will be treated as a regular donation and will not grant duplicate items or Robux.</p><p class="ruleText-0-2-63">Only donations completed before November 1, 2026 at 12:00 AM Eastern Time qualify. Later donations are regular donations and receive no October reward.</p><p class="ruleText-0-2-63">Attempting to refund or charge back a donation will result in your Nozomi account being <span class="permanentBan-0-2-64">PERMANENTLY BANNED</span>, even if the refund or chargeback attempt fails.</p><p class="ruleText-0-2-63">Rewards are fulfilled manually after the donation is verified in a Discord ticket.</p></div></div></section></main></div><footer class="footer-0-2-68"><div class="container mt-4 mb-0 footerContainer-0-2-69"><div class="row"><div class="col-12 col-lg-10 offset-lg-1"><p class="text-0-2-66">Nozomi is an independent game-preservation community. Nozomi is not affiliated with or endorsed by the original platform. Use of this site signifies your acceptance of the <a href="/terms-and-conditions">Terms and Conditions</a>.</p></div></div></div></footer></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"title":"Donate - Nozomi"}},"page":"/donate","query":{},"buildId":"7BtcrKS9LFFbpsOdpw-mp","isFallback":false,"isExperimentalCompile":false,"gip":true,"scriptLoader":[]}</script></body></html>
+}</style></head><body><link rel="preload" as="image" href="/img/nozomi-wordmark.png?v=20260913"/><link rel="preload" as="image" href="/img/placeholder.png"/><div id="__next"><div><div class="wrapper-0-2-8 navbar-wrapper-main"><nav class="navbar fixed-top navbar-expand-lg navbar-0-2-1"><div class="navContainer-0-2-2 container"><div class="row-0-2-5"><div class="leftContainer-0-2-3"><div class="col-0-2-11"><div class="openSideNavMobile-0-2-12 icon-menu"></div><a class="wordmark-0-2-9" href="/home" aria-label="Nozomi home"><img class="wordmarkImage-0-2-10" src="/img/nozomi-wordmark.png?v=20260913" alt="Nozomi"/></a></div></div><div class="navigation-0-2-4"><div class="col-0-2-16"><div class="container-0-2-13"><div class="linksRow-0-2-17"><div class="navItem-0-2-15"><a href="/games"><a class="linkEntry-0-2-14 nav-link active pt-0">Games</a></a></div><div class="navItem-0-2-15"><a href="/catalog"><a class="linkEntry-0-2-14 nav-link active pt-0">Catalog</a></a></div><div class="navItem-0-2-15"><a href="/develop"><a class="linkEntry-0-2-14 nav-link active pt-0">Develop</a></a></div><div class="navItem-0-2-15"><a href="/download"><a class="linkEntry-0-2-14 nav-link active pt-0">Download</a></a></div><div class="navItem-0-2-15"><a href="/donate"><a class="linkEntry-0-2-14 nav-link active pt-0">Donate</a></a></div></div></div></div></div><div class="center-0-2-6"><div class="col-0-2-18"><div style="width:100%"><div class="wrapper-0-2-19"><input class="form-control searchInput-0-2-20" placeholder="Search" value=""/><span class="icon-0-2-21 icon-nav-search"></span></div></div></div></div><div class="right-0-2-7"></div></div></div></nav></div><div class="main-0-2-25"><main class="page-0-2-26"><section class="panel-0-2-27"><header class="header-0-2-28"><h1 class="title-0-2-29">Support Nozomi</h1><p class="lead-0-2-30">Help keep Nozomi online.</p></header><div class="countdown-0-2-31 "><p class="countdownTitle-0-2-32">October rewards end in:</p><div class="clock-0-2-33"><span class="timeBlock-0-2-34"><span class="timeValue-0-2-35">43</span><span class="timeLabel-0-2-36">Days</span></span><span class="timeBlock-0-2-34"><span class="timeValue-0-2-35">11</span><span class="timeLabel-0-2-36">Hours</span></span><span class="timeBlock-0-2-34"><span class="timeValue-0-2-35">29</span><span class="timeLabel-0-2-36">Minutes</span></span><span class="timeBlock-0-2-34"><span class="timeValue-0-2-35">15</span><span class="timeLabel-0-2-36">Seconds</span></span></div></div><div class="content-0-2-39"><h2 class="heading-0-2-40">Donation Reward Tiers</h2><div class="tiers-0-2-41"><article class="tier-0-2-42 "><div class="imageWrap-0-2-44"><img class="image-0-2-64 image-0-2-45" src="/img/placeholder.png" alt="Ghost Valkyrie"/></div><div class="tierBody-0-2-46"><h3 class="tierName-0-2-47">$<!-- -->5<!-- --> Tier</h3><p class="itemName-0-2-48">Ghost Valkyrie</p><div class="reward-0-2-49"><span class="robux-0-2-50"></span> <!-- -->500<!-- --> Robux</div><button class="select-0-2-51 " type="button">Select</button></div></article><article class="tier-0-2-42 "><div class="imageWrap-0-2-44"><img class="image-0-2-64 image-0-2-45" src="/img/placeholder.png" alt="Ghostly Domino Crown"/></div><div class="tierBody-0-2-46"><h3 class="tierName-0-2-47">$<!-- -->10<!-- --> Tier</h3><p class="itemName-0-2-48">Ghostly Domino Crown</p><div class="reward-0-2-49"><span class="robux-0-2-50"></span> <!-- -->1,200<!-- --> Robux</div><button class="select-0-2-51 " type="button">Select</button></div></article><article class="tier-0-2-42 "><div class="imageWrap-0-2-44"><img class="image-0-2-64 image-0-2-45" src="/img/placeholder.png" alt="Ghostly Horns of the Haunted Hills"/></div><div class="tierBody-0-2-46"><h3 class="tierName-0-2-47">$<!-- -->15<!-- --> Tier</h3><p class="itemName-0-2-48">Ghostly Horns of the Haunted Hills<!-- --> + every lower-tier item</p><div class="reward-0-2-49"><span class="robux-0-2-50"></span> <!-- -->1,900<!-- --> Robux</div><button class="select-0-2-51 " type="button">Select</button></div></article></div><div class="rules-0-2-61"><h2 class="heading-0-2-40">Reward Rules</h2><p class="ruleText-0-2-62">The $5 and $10 tiers each grant only the reward shown. The $15 tier grants all three exclusive items and 1,900 Robux.</p><p class="ruleText-0-2-62">Each reward can be claimed only once per Nozomi account. A tier you already received—and any lower tier already covered by the $15 reward—will be treated as a regular donation and will not grant duplicate items or Robux.</p><p class="ruleText-0-2-62">Only donations completed before November 1, 2026 at 12:00 AM Eastern Time qualify. Later donations are regular donations and receive no October reward.</p><p class="ruleText-0-2-62">Attempting to refund or charge back a donation will result in your Nozomi account being <span class="permanentBan-0-2-63">PERMANENTLY BANNED</span>, even if the refund or chargeback attempt fails.</p><p class="ruleText-0-2-62">Rewards are fulfilled manually after the donation is verified in a Discord ticket.</p></div></div></section></main></div><footer class="footer-0-2-67"><div class="container mt-4 mb-0 footerContainer-0-2-68"><div class="row"><div class="col-12 col-lg-10 offset-lg-1"><p class="text-0-2-65">Nozomi is an independent game-preservation community. Nozomi is not affiliated with or endorsed by the original platform. Use of this site signifies your acceptance of the <a href="/terms-and-conditions">Terms and Conditions</a>.</p></div></div></div></footer></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"title":"Donate - Nozomi"}},"page":"/donate","query":{},"buildId":"J8Cz-gWMuQYk1WUisE9mJ","isFallback":false,"isExperimentalCompile":false,"gip":true,"scriptLoader":[]}</script></body></html>
