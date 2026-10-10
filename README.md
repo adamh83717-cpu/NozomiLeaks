@@ -14,3 +14,6 @@ Thank you to everyone who has played Nozomi. Nozomi was a passion project for me
 We love everyone in here, nothing can last forever; so always remember to cherish what you have. 
 
 Thank you,
+
+
+Nozomi is an independent game-preservation community. Nozomi is not affiliated with or endorsed by the original platform.
