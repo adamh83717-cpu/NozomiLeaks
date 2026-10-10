@@ -17,3 +17,5 @@ Thank you,
 
 
 Nozomi is an independent game-preservation community. Nozomi is not affiliated with or endorsed by the original platform.
+
+to view files as games,download add .html at the end of them.
