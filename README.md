@@ -22,3 +22,5 @@ to view files as games,download add .html at the end of them.
 
 
 Clients: https://www.mediafire.com/folder/q05spt0y495q7/Nozomi_Clients - all of them is in that link
+
+Even More Data Here! (zip) : https://github.com/adamh83717-cpu/nozomishutdowncode/releases/tag/Software
