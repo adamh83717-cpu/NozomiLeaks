@@ -28,5 +28,6 @@ Clients (the roblox clients and others) https://www.mediafire.com/file/p578oxyvr
 Even More Data Here! (zip) : https://github.com/adamh83717-cpu/nozomishutdowncode/releases/tag/Software
 
 
-<img width="531" height="197" alt="image" src="https://github.com/user-attachments/assets/10ab52ca-2ad3-4b43-b63f-6ceb6c0ddd3a" />
+<img width="631" height="649" alt="icon" src="https://github.com/user-attachments/assets/1750fe3d-796c-4785-a282-36fa266c1060" />
+
 
