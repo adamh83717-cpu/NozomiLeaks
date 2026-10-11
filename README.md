@@ -23,6 +23,8 @@ to view files as games,download add .html at the end of them.
 
 Clients: https://www.mediafire.com/folder/q05spt0y495q7/Nozomi_Clients - all of them is in that link
 
+Clients (the roblox clients and others) https://www.mediafire.com/file/p578oxyvrivxuu6/Nozomi.rar/file
+
 Even More Data Here! (zip) : https://github.com/adamh83717-cpu/nozomishutdowncode/releases/tag/Software
 
 
