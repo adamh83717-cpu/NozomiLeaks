@@ -21,4 +21,6 @@ Nozomi is an independent game-preservation community. Nozomi is not affiliated w
 to view files as games,download add .html at the end of them.
 
 
-Clients: https://www.mediafire.com/folder/q05spt0y495q7/Nozomi_Clients - all of them is in that link
+Clients: https://nozomilookat.pythonanywhere.com - all of them is in that link
+
+<img width="3835" height="1863" alt="ImageFive" src="https://github.com/user-attachments/assets/215c4e7f-dae1-4146-bcea-b8f6a6081320" />
